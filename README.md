@@ -11,12 +11,12 @@ Le but de leur campagne en Belgique étant de chercher une ouverture Nord/Sud au
 
 ## Plan d'attaque
 ### Définition
-- **public cible :**
+1. **public cible :**
  - jeunes (participant au projet)
  - personne souhaitant effectuer un don
  - belge, européens
-- **mise en avant :**
+2. **mise en avant :**
  - projets réaliser
  - photos
  - vidéos
-- Utiliser un ton sérieux mais chaleureux, un peu enfant.
+3. Utiliser un ton sérieux mais chaleureux, un peu enfant.
