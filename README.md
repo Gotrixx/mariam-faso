@@ -1,4 +1,4 @@
-# Mariam Faso project
+# Mariam Faso Project
 
 > Projet scolaire, à client réel, pour le cours de Design Web. l'ASBL Mariam-Faso nous à demandé de lui créer un site internet.
 ***
@@ -12,11 +12,12 @@ Le but de leur campagne en Belgique étant de chercher une ouverture Nord/Sud au
 ## Plan d'attaque
 ### Définition
 1. **public cible :**
- - jeunes (participant au projet)
+ - jeunes (participant au projet), scout, etc. prêt à sensibiliser les autres, à s'investir.
  - personne souhaitant effectuer un don
  - belge, européens
 2. **mise en avant :**
  - projets réaliser
  - photos
  - vidéos
-3. Utiliser un ton sérieux mais chaleureux, un peu enfant.
+ - événements (à venir et déjà passé)
+3. Utiliser un ton sérieux mais chaleureux.
